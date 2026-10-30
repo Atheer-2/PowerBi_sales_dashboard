@@ -4,8 +4,8 @@ Sales Dashboard  Interactive Power BI dashboard analyzing sales and profit by ca
 The dashboard summarizes total sales (2.30M), total profit (286K), and total quantity sold (38K). A state and category slicer updates every number and chart.
 
 Visuals:                                                                                                                                                            
-Sales by Category (donut chart)
-Profit by Category and Region (stacked bar chart)
+Sales by Category (donut chart)                                                      
+Profit by Category and Region (stacked bar chart)                                                            
 Profit by Sub-Category (column chart)
 
 Interactivity: All visuals are linked, so selecting one element filters the rest.
